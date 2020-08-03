@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+  <circle fill="#5e7" cx="64" cy="64" r="64" />
+  <polyline fill="#fff" points="
+     27.5,  52.0
+     51.0,  75.5
+     93.5,  33.0
+    106.0,  45.5
+     51.0, 100.5
+     15.0,  64.5
+  " />
+</svg>
